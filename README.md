@@ -67,7 +67,9 @@
 
 ## 💻 Most Used Languages
 
-* Python andC++
+* Python
+* SQL
+* C++
 ---
 
 ## 🌐 Connect With Me
