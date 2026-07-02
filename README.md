@@ -16,7 +16,7 @@
 
 🐍 Interested in Python development, Artificial Intelligence, Machine Learning, and Web Development.
 
-☁️ Holder of **4 AWS Specializations** with hands-on learning in cloud and AI fundamentals.
+☁️ Holder of **AWS Specializations** and **CLOUD FRAMEWORKS** with hands-on learning in cloud and AI fundamentals.
 
 ✍️ Passionate about technical writing and sharing knowledge through content.
 
@@ -46,7 +46,8 @@
 
 ## 📜 Certifications
 
-* ☁️ AWS Specializations (4)
+* ☁️ AWS Specializations
+* Ethical Hacking
 * Python Development Internship
 * Continuous learning in AI & Software Development
 
@@ -66,12 +67,7 @@
 
 ## 💻 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshbabu-thevar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
+* Python andC++
 ---
 
 ## 🌐 Connect With Me
